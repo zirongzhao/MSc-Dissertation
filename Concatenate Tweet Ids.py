@@ -2,7 +2,7 @@
 import pandas as pd
 import glob
 
-path = r'C:\Users\40587\Desktop\ng_data' # use your path
+path = r'' # use your path
 all_files = glob.glob(path + "/*.csv")
 
 li = []
